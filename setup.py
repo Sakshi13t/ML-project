@@ -19,7 +19,7 @@ def get_requirements(file_path:str)->List:
 
 
 setup(
-    name = 'mlproject',
+    name = 'Diamond Price Prediction',
     version = '0.0.1',
     author = 'Sakshi',
     author_email = 'sakshitandon1193@gmail.com',
